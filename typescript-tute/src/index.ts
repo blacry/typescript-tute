@@ -116,4 +116,4 @@ console.log(costomer1?.bday, costomer2?.bday.getFullYear());
 
 //optional element access operator
 let log: any = null
-log?.('a')
+log?.('a');
